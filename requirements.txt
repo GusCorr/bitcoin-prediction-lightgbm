@@ -1,1 +1,13 @@
+# Data Foundations
+pandas>=2.2.0
+numpy>=1.26.0
 
+# Model & Optimization
+lightgbm>=4.3.0
+scikit-learn>=1.4.0
+
+# Plotting & Visualization
+matplotlib>=3.8.0
+
+# Notebook Environment
+Python version 3.12.7
