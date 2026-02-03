@@ -7,7 +7,6 @@ This project implements a high-performance Machine Learning pipeline to predict 
 Predicting cryptocurrency prices is a complex challenge due to high volatility and non-linear market behaviors. This project focuses on:
 - Engineering robust technical indicators from raw OHLC data.
 - Utilizing Gradient Boosting (LightGBM) for fast and scalable training.
-- Implementing a modular software architecture for production-ready Data Science.
 
 ## Project Structure
 The repository is organized as follows:
